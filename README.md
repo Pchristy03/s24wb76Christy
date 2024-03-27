@@ -10,3 +10,4 @@ Link to Render server: https://s24wb76christy.onrender.com
 * size
 * is_poisonous
 * age
+* name
